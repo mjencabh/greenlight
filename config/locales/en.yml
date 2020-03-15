@@ -259,9 +259,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    about: "%{href} er et simpelt front-end system som styre vores online konference platform. Du kan nemt lave dine egne rum, og tilføje adgangskode til eleverne. Når du oprette rummet, får du et link som du kan kopire, og sende til dine elever/deltagere på holdet. ( Husk også at send adgangskoden, som vi anbefaler du slår til). Sign up med din medarbejder e-mail, for at blive godkendt af en admin på platformen"
+    welcome: Velkommen til Campus Bornholms Online.
+    video: Se vejledninger om hvordan man bruger online platformen Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
